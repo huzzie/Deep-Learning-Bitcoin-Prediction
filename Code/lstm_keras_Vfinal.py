@@ -35,9 +35,8 @@ import time
 # from poloniex import Poloniex
 # import os
 # polo = Poloniex()
-# API_KEY = "H1LNX332-FDI51G65-O5QGGEKB-Y0KPIHQV"
-# API_SECRET = "0900c0326db91ed0c504eaa12323210005d64f5846e9331a3eac876a2af902ae2f80f65dda626c3936ac9158dad6926fbd58d74931a158a7b6c41e0c07b52388"
-
+# API_KEY = "[your api]"
+# API_SECRET = '[your api]'
 # api_key = os.environ.get(API_KEY)
 # api_secret = os.environ.get(API_SECRET)
 # polo = Poloniex(api_key, api_secret)
