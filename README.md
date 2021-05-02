@@ -26,4 +26,7 @@ df2.to_csv('project_df.csv', encoding = 'utf-8')
 
 ## Second method
 2. Download data folder above
-I imported data from the Polenix and exported into CSV format
+I imported data from the Polenix and exported into CSV format. Save the dataset name as df2
+
+# Fast start
+After data import, recommend to run lstm_keras_Vfinal.py -> rnn_keras_VFinal.py -> gru_keras_VFinal.py.
