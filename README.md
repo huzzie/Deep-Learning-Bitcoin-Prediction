@@ -1,4 +1,4 @@
-# Fast start
+# Quick start
 After data import, recommend to run lstm_keras_Vfinal.py -> rnn_keras_VFinal.py -> gru_keras_VFinal.py in order.
 
 # For the data import, there are two methods
