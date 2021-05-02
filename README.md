@@ -1,4 +1,7 @@
-# For the dataloading, there are two methods
+# Fast start
+After data import, recommend to run lstm_keras_Vfinal.py -> rnn_keras_VFinal.py -> gru_keras_VFinal.py in order.
+
+# For the data import, there are two methods
 
 ## First method
 
@@ -29,5 +32,3 @@ ticker = polo.returnTicker()['BTC_ETH']
 2. Download data folder above
 I imported data from the Polenix and exported into CSV format. Save the dataset name as df2
 
-# Fast start
-After data import, recommend to run lstm_keras_Vfinal.py -> rnn_keras_VFinal.py -> gru_keras_VFinal.py.
